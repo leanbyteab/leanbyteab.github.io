@@ -1,0 +1,13 @@
+body {
+  background-color: #fff;
+  color: #7F7F7F;
+}
+
+.intro {
+  margin-top: 3em;
+  font-weight: bold;
+}
+
+a, a:hover, a:visited {
+  color: #59C7F8;
+}
